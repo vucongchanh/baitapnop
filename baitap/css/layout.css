@@ -1,0 +1,44 @@
+*{
+	margin:0;
+	padding:0
+}
+#wrapper{
+	width:90%;
+	border:1px dotted;
+	background:#f6f6f6 url('../hinh/bg2.jpg') top right fixed no-repeat;
+	margin:auto;
+}
+h1{
+	text-align:center;
+}
+.column{
+	width:29.5%;
+	padding:10px;
+	margin:10px;
+	float:left;
+}
+.column1{
+	border-style:solid dashed;
+	background-image:url('../hinh/bg1.jpg');
+	text-align: justify;
+}
+.column2{
+	line-height:40px;
+	background-color: #aaa;
+}
+.box{
+	border: 1px solid;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px;
+}
+.column3{
+	background-color:rgba(0,0,0,.3);
+	text-align: justify;
+}
+.column4{
+	width:96%;
+	background:linear-gradient(#Aba172,#fff);
+	padding:10px;
+	clear:both;
+	text-align: justify;
+}
